@@ -15,3 +15,6 @@ Sample website with plenty of files for demos..
 This is a sample website that can be deployed on any server
 
 ## How To Contribute
+
+##Copyright
+20128 Git.Training.
